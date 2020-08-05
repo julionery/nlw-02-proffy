@@ -1,4 +1,8 @@
 
+<h3 align="center">
+    <img alt="Logo" title="#logo" height="150px" src="https://github.com/julionery/docs/blob/master/NLW-02/logo.png?raw=true">
+</h3>
+
 <h1 align="center">Back-end Proffy</h1>
 
 <p align="center">Back-end do Projeto Proffy da #02 Next Level Week da <a href="https://rocketseat.com.br/" target="_blank">Rockeseat.</a></p>
