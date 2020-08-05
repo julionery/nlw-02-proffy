@@ -30,7 +30,6 @@
 - [EditorConfig](https://editorconfig.org/) - Padrão de Código
 - [ESLint](https://eslint.org/) - Padrão de Código
 - [Prettier](https://prettier.io/) - Padrão de Código
-- [uuidv4](https://github.com/thenativeweb/uuidv4) - Gerador de ID
 
 ### :information_source: Como Usar
 
