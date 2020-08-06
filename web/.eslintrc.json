@@ -30,6 +30,7 @@
     ],
     "rules": {
       "jsx-a11y/label-has-associated-control": "off",
+      "camelcase": "off",
       "react/prop-types": "off",
       "react/jsx-props-no-spreading": "off",
       "react-hooks/rules-of-hooks": "error",
