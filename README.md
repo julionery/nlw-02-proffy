@@ -1,5 +1,3 @@
-## EM DESENVOLVIMENTO...
-
 <h3 align="center">
     <img alt="Logo" title="#logo" height="150px" src="https://github.com/julionery/docs/blob/master/NLW-02/logo.png?raw=true">
 </h3>
@@ -21,6 +19,13 @@
 <h2 align="center">Rocketseat - Next Level Week #02</h2>
 
 <p>O <b>Proffy</b> é uma aplicação Web e Mobile elaborada para ajudar alunos a encontrarem professores de forma rápida e prática.</p>
+
+<h3 align="center">
+    <img alt="Web" title="Web" src="https://github.com/julionery/docs/blob/master/NLW-02/proffy-web.gif?raw=true">
+ </h3>   
+ <h3 align="center">
+<img alt="Mobile" title="Mobile" width="300px" src="https://github.com/julionery/docs/blob/master/NLW-02/proffy-mobile.gif?raw=true">
+</h3>
 
 ### Projetos relacionados:
 - [Proffy API](https://github.com/julionery/nlw-02-proffy/tree/master/server)
